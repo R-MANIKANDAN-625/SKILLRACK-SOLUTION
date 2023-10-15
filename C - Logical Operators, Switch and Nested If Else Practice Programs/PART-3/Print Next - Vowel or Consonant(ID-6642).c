@@ -1,7 +1,8 @@
 /*
 Print Next - Vowel or Consonant
 
-The program must accept an alphabet CH as the input. If CH is a vowel then the program must print the next consonant as the output. Else the program must print the next vowel from the alphabet position as the output.  
+The program must accept an alphabet CH as the input. If CH is a vowel then the program must print the next consonant as the output. 
+Else the program must print the next vowel from the alphabet position as the output.  
 Note: Alphabet is only in lower-case. 
 
 Example Input/Output 1:
