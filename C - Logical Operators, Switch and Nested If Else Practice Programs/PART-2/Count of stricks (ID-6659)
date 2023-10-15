@@ -1,4 +1,4 @@
-Count of Stick(s)
+/* Count of Stick(s)
 
 The program must accept the number of whips X as the input. The stick used to whip is broken after a certain number of whips based on the data given below.
     - The first stick is broken after 5 beats
@@ -24,7 +24,7 @@ Input:
 
 Output:
 3
-
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
