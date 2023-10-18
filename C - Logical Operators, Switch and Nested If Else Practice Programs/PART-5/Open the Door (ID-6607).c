@@ -26,10 +26,11 @@ Input:
 Output:
 NO   */
 
+//NOTE : CODE CREDITS TO @SRBLOGS
 
 #include<stdio.h>
 #include<stdlib.h>
-//hari mani
+
 int main()
 {
 int a,b,c,m=0,j=0;
