@@ -1,6 +1,7 @@
 /*Integer Pattern
 
-The program must accept an integer N as the input. The program must print the desired pattern as shown in the Example Input/Output section.
+The program must accept an integer N as the input. The program must print the desired pattern as shown in the
+Example Input/Output section.
 
 Example Input/Output 1:
 Input:
