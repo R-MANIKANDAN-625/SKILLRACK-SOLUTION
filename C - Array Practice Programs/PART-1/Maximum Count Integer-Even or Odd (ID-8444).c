@@ -1,5 +1,6 @@
 /*Maximum Count Integer-Even or Odd
 
+
 The program must accept N integers as the input. The program must print the output based on the following conditions.
 - If the count of even integers is greater than the count of odd integers, the program must print the even integers followed by the odd integers.
 - Else the program must print the odd integers followed by the even integers.
